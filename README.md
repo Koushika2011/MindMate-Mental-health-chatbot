@@ -24,7 +24,7 @@ Database: MySQL
 📦 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/MindMate-Mental-health-chatbot.git
+git clone https://github.com/Koushika2011/MindMate-Mental-health-chatbot.git
 cd MindMate-Mental-health-chatbot
 Install dependencies:
 
@@ -46,4 +46,5 @@ Tracks user emotions over sessions.
 Displays weekly/monthly trends in charts for self-awareness.
 
 📜 License
+
 This project is for educational purposes only. Not intended for medical use.
